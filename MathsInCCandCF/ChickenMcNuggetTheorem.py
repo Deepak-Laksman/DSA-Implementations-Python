@@ -1,0 +1,2 @@
+# It states that if there are 2 co primes a, b , then the maximum value that cannot be represented by a, b is
+# a * b - a - b. The number of integers that cannot be represented in the form a * x + b * y is (a - 1) * (b - 1) // 2
